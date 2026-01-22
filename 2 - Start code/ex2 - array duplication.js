@@ -31,7 +31,7 @@ function updateStudentAge(firstName, lastName, batch, newAge) {
 }
 
 
-// 1 - Update An Nguyen (batch A) age to 30
+// 1 - Update An lo (batch A) age to 30
 updateStudentAge("An", "lo", "A", 30);
 
 // 2 - Print the updated data
